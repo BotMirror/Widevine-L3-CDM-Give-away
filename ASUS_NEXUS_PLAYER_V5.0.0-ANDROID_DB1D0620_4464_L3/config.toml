@@ -1,0 +1,18 @@
+[wvd]
+security_level = 1
+device_type = 'android'
+send_key_control_nonce = true
+
+[client_info]
+company_name = 'lenovo'
+model_name = 'Lenovo TB-X705F'
+architecture_name = 'armeabi-v7a'
+device_name = 'lineage_X705F'
+product_name = 'X705F'
+build_info = 'Lenovo/LenovoTB-X705F/X705F:8.1.0/OPM1.171019.019/S000017_180831_ROW:user/release-keys'
+os_version = '8.1.0'
+
+[capabilities]
+session_token = 1
+max_hdcp_version = 'HDCP_V2_2'
+oem_crypto_api_version = 9

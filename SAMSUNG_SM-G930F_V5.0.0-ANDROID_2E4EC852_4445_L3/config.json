@@ -1,0 +1,18 @@
+{
+    "device_id": "SHBKTGpPTWF5aXhpcU5ZUVdIcGF1RGNad2tHTXhmYgA=",
+    "device_id_size": 32,
+    "device_key": "HHGO4xekVXBvEn/hcSPXiQ==",
+    "device_token": "AAAAAgAAEV0SK4WPNyWJar4iKYGnUqognHxChi0NJKrwRn4yoV9Tb71jO4gc6aE2RfNMV2XjW9UaUFQ7Y2V06rhVvpVM/Npz",
+    "device_token_size": 72,
+    "kbox_tag": "kbox",
+    "crc32": 1177317413,
+    "crc32_raw": "462c7025",
+    "lvl1_tag": "LVL3",
+    "flags": 2,
+    "released": true,
+    "version": 2,
+    "system_id": 4445,
+    "provisioning_id": "EiuFjzcliWq+IimBp1KqIA==",
+    "encrypted_bits": "nHxChi0NJKrwRn4yoV9Tb71jO4gc6aE2RfNMV2XjW9UaUFQ7Y2V06rhVvpVM/Npz",
+    "keybox": "SHBKTGpPTWF5aXhpcU5ZUVdIcGF1RGNad2tHTXhmYgAccY7jF6RVcG8Sf+FxI9eJAAAAAgAAEV0SK4WPNyWJar4iKYGnUqognHxChi0NJKrwRn4yoV9Tb71jO4gc6aE2RfNMV2XjW9UaUFQ7Y2V06rhVvpVM/Npza2JveEYscCVMVkwz"
+}

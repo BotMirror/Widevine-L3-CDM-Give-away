@@ -1,0 +1,22 @@
+{
+    "status": "ACTIVE",
+    "forTestingOnly": "No",
+    "systemId": "8159",
+    "securityLevel": "LEVEL_3",
+    "manufacturer": "Generic Field Provisioning 3.0",
+    "model": "Android ARM 64",
+    "modelYear": "2018",
+    "modelName": "ONEPLUS A6013",
+    "systemOnChip": "android generic",
+    "type": "software",
+    "additionalInfo": {
+        "applicationName": "",
+        "architectureName": "arm64-v8a",
+        "buildInfo": "OnePlus/OnePlus6T/OnePlus6T:10/QKQ1.190716.003/2105112216:user/release-keys",
+        "companyName": "OnePlus",
+        "deviceId": "",
+        "deviceName": "OnePlus6T",
+        "productName": "OnePlus6T",
+        "widevineCdmVersion": "15.0.0"
+    }
+}
